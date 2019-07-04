@@ -7,8 +7,8 @@ require "dowin/version"
 Gem::Specification.new do |spec|
   spec.name          = "dowin"
   spec.version       = Dowin::VERSION
-  spec.authors       = 'tenmind_hj'
-  spec.email         = 'hujun@tenmind.com'
+  spec.authors       = 'HUJUN1990'
+  spec.email         = '992699452@qq.com'
 
   spec.summary       = '第一个gem包管理测试'
   spec.description   = '第一个测试'
