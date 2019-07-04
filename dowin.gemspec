@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = 'tenmind_hj'
   spec.email         = 'hujun@tenmind.com'
 
-  spec.summary       = %q{第一个gem包管理测试}
-  spec.description   = %q{第一个测试}
+  spec.summary       = '第一个gem包管理测试'
+  spec.description   = '第一个测试'
   spec.homepage      = "https://github.com/Hujun520/dowin"
   spec.license       = "MIT"
 
@@ -35,6 +35,5 @@ Gem::Specification.new do |spec|
   spec.required_ruby_version = ">=2.3.3"
 
   spec.add_dependency 'bunny', '>=2.5.1'
-  spec.add_dependency 'graphql', '1.9.4'
-  # spec.add_dependency 'rack-cors'
+  spec.add_dependency 'graphql', '~> 1.9.4'
 end
