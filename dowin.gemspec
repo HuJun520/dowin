@@ -36,5 +36,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'bunny', '>=2.5.1'
   spec.add_dependency 'graphql', '1.9.4'
-  spec.add_dependency 'rack-cors'
+  # spec.add_dependency 'rack-cors'
 end
